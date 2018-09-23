@@ -15073,11 +15073,13 @@
   }
   
   {
-  "url": "https://www.facebook.com/groups/free.code.camp.amaravati.ap",
-  "city": "Amaravati"
-  "state": "Andhra Pradesh",
-  "country": "India",
-  "coordinates": "16.5730, 80.3575",
-  "photoUrl":""
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.amaravati.ap/",
+    "city": "Amaravati, AP",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "coordinates": "16.5730, 80.3575",
+    "photoUrl": ""
+  } 
   },
 ]
